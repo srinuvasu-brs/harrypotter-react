@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/harry-potter-reactjs/static/css/main.76faa7fb.css",
-    "main.js": "/harry-potter-reactjs/static/js/main.eb49e30d.js",
-    "static/js/787.febbefd4.chunk.js": "/harry-potter-reactjs/static/js/787.febbefd4.chunk.js",
-    "static/media/BG.png": "/harry-potter-reactjs/static/media/BG.0805d1c579b3eb137695.png",
-    "static/media/harry potter logo.png": "/harry-potter-reactjs/static/media/harry potter logo.39b2815d3a8d2fa5ac86.png",
-    "index.html": "/harry-potter-reactjs/index.html",
-    "main.76faa7fb.css.map": "/harry-potter-reactjs/static/css/main.76faa7fb.css.map",
-    "main.eb49e30d.js.map": "/harry-potter-reactjs/static/js/main.eb49e30d.js.map",
-    "787.febbefd4.chunk.js.map": "/harry-potter-reactjs/static/js/787.febbefd4.chunk.js.map"
+    "main.css": "/harrypotter-react/static/css/main.22fb68c6.css",
+    "main.js": "/harrypotter-react/static/js/main.6763f51b.js",
+    "static/js/787.febbefd4.chunk.js": "/harrypotter-react/static/js/787.febbefd4.chunk.js",
+    "static/media/BG.png": "/harrypotter-react/static/media/BG.0805d1c579b3eb137695.png",
+    "static/media/harry potter logo.png": "/harrypotter-react/static/media/harry potter logo.39b2815d3a8d2fa5ac86.png",
+    "index.html": "/harrypotter-react/index.html",
+    "main.22fb68c6.css.map": "/harrypotter-react/static/css/main.22fb68c6.css.map",
+    "main.6763f51b.js.map": "/harrypotter-react/static/js/main.6763f51b.js.map",
+    "787.febbefd4.chunk.js.map": "/harrypotter-react/static/js/787.febbefd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76faa7fb.css",
-    "static/js/main.eb49e30d.js"
+    "static/css/main.22fb68c6.css",
+    "static/js/main.6763f51b.js"
   ]
 }
